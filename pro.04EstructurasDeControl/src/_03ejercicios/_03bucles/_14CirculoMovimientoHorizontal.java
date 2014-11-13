@@ -1,4 +1,4 @@
-package _03ejercicios.bucles;
+package _03ejercicios._03bucles;
 import pizarra.Pizarra;
 import figuras.Circulo;
 public class _14CirculoMovimientoHorizontal {

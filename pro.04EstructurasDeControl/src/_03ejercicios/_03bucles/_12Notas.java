@@ -1,4 +1,4 @@
-package _03ejercicios.bucles;
+package _03ejercicios._03bucles;
 import java.util.*;
 public class _12Notas {
     public static void main(String args[]){

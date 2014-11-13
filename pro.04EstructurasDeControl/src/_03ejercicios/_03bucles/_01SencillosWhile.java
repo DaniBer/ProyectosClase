@@ -1,4 +1,4 @@
-package _03ejercicios.bucles;
+package _03ejercicios._03bucles;
 import java.util.*;
 public class _01SencillosWhile {
     
