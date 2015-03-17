@@ -1,6 +1,8 @@
 package deporte;
 public class Salud {
 	/**
+	 * LOOOOOL
+	 * lol2ñpñ
          * Calcula la frecuencia máxima cardiaca en funcion de la edad y del sexo
          * del individuo. Para ello hace uso de los métodos calcularFCMHombre y 
          * calcularFCMMujer, que están por completar.
